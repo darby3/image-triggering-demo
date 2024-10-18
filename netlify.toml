@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://tech.chickenwing-gingerbreadman.xyz/demos/image-triggering/demo/"
+  status = 301
+  force = true
