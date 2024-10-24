@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "https://tech.chickenwing-gingerbreadman.xyz/demos/image-triggering/demo/"
+  to = "https://tech.chickenwing-gingerbreadman.xyz/demos/image-triggering/"
   status = 301
   force = true
